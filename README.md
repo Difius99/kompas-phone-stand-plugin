@@ -1,0 +1,1 @@
+# kompas-phone-stand-plugin
